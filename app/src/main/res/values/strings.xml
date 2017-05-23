@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sparkle Lights</string>
+    <string name="buttonOn">On</string>
+    <string name="buttonOff">Off</string>
+    <string name="menuitem_remote">Remote</string>
+    <string name="menuitem_pattern">Pattern</string>
+    <string name="menu_connect">Connect</string>
+</resources>
